@@ -52,7 +52,10 @@ para iniciar el proyecto
 38. clonamos este template para continuar otro proyecto
 39. git clone con este link del repo
 40. para poder asignar otro nombre despuesde el git https://archivo.git  nuevonombre
-
+----------------------------------------------------------------------------------------
+1. clonamos
+2. cambiamos las variables de entorno .env
+3. creamos otra base de datos donde vamos a trabar el nuevo proyecto
 
 
 
