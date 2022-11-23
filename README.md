@@ -49,6 +49,9 @@ para iniciar el proyecto
 35. vamos a proteger con token y con rol
 36. creamos el middleware role.middleware
 37. metemos en las rutas protegidas
+38. clonamos este template para continuar otro proyecto
+39. git clone con este link del repo
+40. para poder asignar otro nombre despuesde el git https://archivo.git  nuevonombre
 
 
 
